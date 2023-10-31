@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+
+span{
+    display: inline-block;
+}
+
+#pic img{
+    height: 400px;
+    width: 300px;
+}
+#mini-layout img{
+    height: 100px;
+    width: 100px;
+}
